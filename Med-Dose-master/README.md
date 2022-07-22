@@ -1,6 +1,6 @@
 # Med-Dose
 
-A Medicine Dosage Reminder App built using native Android in Java.
+A Medicine Dosage Reminder App built using Android studio in Java.
 
 ## Screenshots
 
